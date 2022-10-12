@@ -1,19 +1,26 @@
-*.swf
-*.air
-*.ipa
-*.apk
-*.exe
-# Package Files #
-*.jar
-*.war
-#Test results file
-TestResults.xml
-.htaccess
-css.php
-HISTORY.txt
-.htaccess
-# Cache and logs (Symfony2)
-/app/cache/*
-/app/logs/*
-!app/cache/.gitkeep
-!app/logs/.gitkeep
+*.i
+*.ii
+*.gpu
+*.ptx
+*.cubin
+*.fatbin
+*.cmo
+*.cmx
+*.cmxa
+*.cmxs
+*.glob
+*.ml.d
+*.ml4.d
+*.mlg.d
+*.mli.d
+*.mllib.d
+*.mlpack.d
+*.native
+*.o
+*.v.d
+*.vio
+*.vo
+*.vok
+*.vos
+build/
+build.log
