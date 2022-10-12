@@ -1,0 +1,19 @@
+*.swf
+*.air
+*.ipa
+*.apk
+*.exe
+# Package Files #
+*.jar
+*.war
+#Test results file
+TestResults.xml
+.htaccess
+css.php
+HISTORY.txt
+.htaccess
+# Cache and logs (Symfony2)
+/app/cache/*
+/app/logs/*
+!app/cache/.gitkeep
+!app/logs/.gitkeep
